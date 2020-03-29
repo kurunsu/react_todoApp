@@ -1,0 +1,39 @@
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.wrap {
+    width: 700px;
+    background-color: rgb(201, 201, 201);
+}
+
+.inner {
+    padding: 20px 100px;
+}
+
+h1, form, ul {
+    width: 500px;
+    padding: 20px 50px;
+    margin-bottom: 30px;
+    background-color: rgb(160, 160, 160);
+    text-align: center;
+}
+
+input {
+   font-size: 30px;
+   text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    width: 400px;
+    padding: 20px 50px;
+    margin-bottom: 20px;
+    background-color: rgb(201, 201, 201);
+    text-align: center;
+}
